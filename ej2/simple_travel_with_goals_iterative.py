@@ -7,7 +7,7 @@ Modified: Antonio Garrido
 Iterative version with multiple goal
 """
 
-import pyhop
+from lib import pyhop
 import pdb
 
 # Funcion auxiliar
